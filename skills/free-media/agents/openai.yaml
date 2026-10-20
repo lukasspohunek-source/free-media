@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obrázky a videa zdarma"
+  short_description: "Bezplatné obrázky a videa se stejnými postavami"
+  default_prompt: "Použij $free-media k vytvoření obrázku nebo krátkého videa zdarma se zachováním postav z mé předlohy."

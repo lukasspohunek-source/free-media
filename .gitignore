@@ -1,0 +1,39 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Local inputs, prompts, references and generated results
+free-media-work/
+inputs/
+prompts/
+references-private/
+outputs/
+output/
+generated/
+runs/
+request.json
+request.tmp
+*.part
+.request.lock
+output.png
+output.jpg
+output.jpeg
+output.webp
+output.mp4
+output.webm
+output.mov
+
+# Local credentials and editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.swp
